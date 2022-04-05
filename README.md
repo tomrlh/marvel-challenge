@@ -6,6 +6,6 @@
 
 [Demonstration here](https://media.giphy.com/media/AGwX117XjFkSrXAkAL/giphy-downsized-large.gif)
 
-![Alt Text](https://i.giphy.com/media/AGwX117XjFkSrXAkAL/giphy.mp4)
+![Alt Text](https://media.giphy.com/media/AGwX117XjFkSrXAkAL/giphy-downsized-large.gif)
 
 <img src="https://media.giphy.com/media/AGwX117XjFkSrXAkAL/giphy-downsized-large.gif" width="400" height="400" />
