@@ -4,4 +4,5 @@
 
 ### `npm start`
 
-## Demo
+[Demonstration here](https://media.giphy.com/media/4ReeOmBgSCZ0aIBm2y/giphy.gif)
+
