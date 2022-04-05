@@ -14,6 +14,7 @@ export default function Header() {
 const styles = {
   container: {
     display: "flex",
+    width: "80%",
     justifyContent: "space-between",
   },
 };

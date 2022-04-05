@@ -15,6 +15,7 @@ const styles = {
   container: {
     display: "flex",
     justifyContent: "flex-end",
+    marginRight: 10,
   },
   options: {
     height: 20,

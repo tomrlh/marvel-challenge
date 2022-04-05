@@ -23,13 +23,14 @@ export default function RightSideBottom() {
 const styles = {
   container: {
     display: "flex",
+    marginBottom: 5,
   },
   searchInput: {
     width: 200,
-    borderWidth: "0 0 2px",
     background:
       "url(https://cdn-icons-png.flaticon.com/512/149/149852.png) no-repeat scroll right",
     backgroundSize: 15,
+    borderWidth: "0 0 2px",
     outline: 0,
   },
 };
