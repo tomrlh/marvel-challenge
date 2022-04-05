@@ -4,5 +4,5 @@
 
 ### `npm start`
 
-[Demonstration here](https://media.giphy.com/media/4ReeOmBgSCZ0aIBm2y/giphy.gif)
+[Demonstration here](https://media.giphy.com/media/AGwX117XjFkSrXAkAL/giphy-downsized-large.gif)
 
