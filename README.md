@@ -8,4 +8,4 @@
 
 ![Alt Text](https://i.giphy.com/media/AGwX117XjFkSrXAkAL/giphy.mp4)
 
-<img src="https://i.giphy.com/media/AGwX117XjFkSrXAkAL/giphy.mp4" width="400" height="400" />
+<img src="https://media.giphy.com/media/AGwX117XjFkSrXAkAL/giphy-downsized-large.gif" width="400" height="400" />
